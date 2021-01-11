@@ -6,6 +6,8 @@ _Calculadora realizada con html5, css3 y Javascripct, incluye glassmorphism y un
 
 _Para descargarte una copia del proyecto solo clona el repo_
 
+Puedes ver una **demo** aqui 🧮 [Proyecto Calculadora](https://airedev-calculator.netlify.app/)
+
 
 ### Pre-requisitos 📋
 
